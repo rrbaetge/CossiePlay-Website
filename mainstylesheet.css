@@ -18,7 +18,7 @@ li a {
 	diplay: block;
 	color: #DAFEB7;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 15px 19px;
 	text-decoration: none;
 }
 li a:hover {
@@ -28,7 +28,7 @@ div#bodycontent p {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top : 40px;
-	width: 750px;
+	width: 800px;
 	clear: both;
 	text-align: center
 }
